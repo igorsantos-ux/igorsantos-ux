@@ -1,7 +1,7 @@
 ### What's up? ✌
 
 - 🐣 Iniciante em programação
-- 📚 Estudando Python, CSS e HTML
+- 📚 Estudando Python, CSS, HTML E VBA
 - 👨🏻‍🏭 Trabalhando com automações
 - 👨🏻‍🎓 Formado em Gestão Financeira
 
