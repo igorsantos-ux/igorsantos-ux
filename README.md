@@ -46,28 +46,7 @@ de dados.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-## GitHub
-
-<p>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=igorsantos-ux&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=igorsantos-ux&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite"
-      alt="Estatísticas do GitHub de Igor Santos">
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsantos-ux&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsantos-ux&layout=compact&langs_count=8&hide_border=true&theme=graywhite"
-      alt="Linguagens mais utilizadas por Igor Santos">
-  </picture>
-</p>
+## Contribuições
 
 <picture>
   <source
